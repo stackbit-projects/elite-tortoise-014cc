@@ -10,7 +10,7 @@ sections:
     align: left
     image_alt: Hero placeholder image
     image_position: right
-    has_background: false
+    has_background: true
     background:
       background_color: blue
       background_image: images/diagonal-lines.svg
